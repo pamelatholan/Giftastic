@@ -4,7 +4,7 @@ $(function(){
   console.log("Page Loaded");
 })    
 
-var topics = ["Grateful Dead", "Tom Waits", "Phish", "Bob Marley", "Childish Gambino", "Phil Collins", "David Bowie", "Lynyrd Skynyrd", "Danny Brown", "Run The Jewels"];
+var topics = ["Grateful Dead", "Tom Waits", "Phish", "Bob Marley", "Childish Gambino", "Phil Collins", "David Bowie", "Lynyrd Skynyrd", "Danny Brown", "Run The Jewels", "Blondie", "Elvis", "Pink Floyd"];
  
 // Add buttons to page after searching
  function populateButtons(topics, classToAdd, areaToAddTo){

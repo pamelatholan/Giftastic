@@ -1,9 +1,9 @@
 body {
-  font-family: "Raleway", sans-serif;
-  font-size: 25px;
+  font-family: "Condiment", cursive;
+  font-size: 30px;
   color: white;
   letter-spacing: 1.5px;
-  line-height: 3;
+  line-height: 2;
   background-color: black;
 }
 
@@ -40,21 +40,17 @@ input[type="submit"] {
   padding: 5px 20px;
   margin: 0 10px 10px 0;
   font-size: 18px;
-  color: #fff;
+  color: rgb(245, 196, 195);
   cursor: pointer;
   background: #8b0909;
   border: 0;
   border-radius: 5px;
-  /* box-shadow: 2px 2px 3px #bbb; */
+  box-shadow: 2px 2px 3px rgb(231, 118, 114);
 }
 
 button:hover,
 input[type="submit"]:hover {
-  background: #580369;
-}
-
-button.active {
-  background: #4ab3b0;
+  background: #5f0374;
 }
 
 #buttonsArea {
@@ -78,7 +74,7 @@ p {
 
  .bottom-left {
      position: absolute;
-     bottom: 300px;
+     bottom: 325px;
      left: 25px;
      font-family: "Condiment", cursive;
      font-size: 100px;
