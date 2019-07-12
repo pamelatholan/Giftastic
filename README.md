@@ -1,5 +1,4 @@
 ## Giftastic
-## HW 6
 
 * Using the GIPHY API, make a dynamic webpage that populates GIFs of your choice.
     * Theme is music
