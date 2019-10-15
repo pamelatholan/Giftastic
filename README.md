@@ -1,11 +1,20 @@
-## Giftastic
+# Giftastic
 
-* Using the GIPHY API, make a dynamic webpage that populates GIFs of your choice.
-    * Theme is music
-    * Pre-populated 15 buttons
+Deployed on [GitHub Pages](https://pamelatholan.github.io/Giftastic/)
 
-![Giftastic](https://github.com/pamelatholan/Giftastic/blob/master/assets/images/Giftastic.PNG)
+Giftastic is a music themed GIF population webpage.  There are 15 pre-populated buttons of musicians and bands.  The GIFS will populate static and animate once clicked on.  There is also a search field for user's to add their own favorite musicians and bands.
 
-* When a button is clicked, 10 static GIFs populate.
-* When clicking a static GIF, it will animate and then if clicked again return to it's static state.
-* Include a form that takes a user's search input and adds it to the pre-populated buttons.
+### How to Use:
+* Click a pre-populated button to have 10 static GIFs populate.
+* Clicking a static GIF will animate it and clicking again will return it to it's static state.
+* Use the search field to add your favorite musicians and bands to the pre-populated buttons.
+
+### Tools/Languages Used:
+* HTML
+* CSS
+* JavaScript
+* JQuery
+* Bootstrap
+* Giphy API
+* GoogleFonts
+
